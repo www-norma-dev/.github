@@ -42,3 +42,8 @@ A quick video or face-to-face conversation often beats a long thread. We value h
 
 🚧 Break the tunnel early  
 Don't wait for perfect. Share rough drafts. Show your progress early. Feedback helps, silence doesn't.
+
+
+📚 Learning & Growth
+
+We never stop learning. Curiosity beats ego. We share lessons, ask questions, and learn from wins and mistakes alike. Growth is part of the job—for our craft, our team, and ourselves.
