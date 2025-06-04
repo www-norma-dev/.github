@@ -46,4 +46,4 @@ Don't wait for perfect. Share rough drafts. Show your progress early. Feedback h
 
 📚 Learning & Growth
 
-We never stop learning. Curiosity beats ego. We share lessons, ask questions, and learn from wins and mistakes alike. Growth is part of the job—for our craft, our team, and ourselves.
+We grow through curiosity, not ego. NORMA funds certifications and gives you time on the clock to prepare. Learn fast, share often, improve continuously.
