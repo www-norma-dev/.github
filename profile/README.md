@@ -42,3 +42,8 @@ A quick video or face-to-face conversation often beats a long thread. We value h
 
 🚧 Break the tunnel early  
 Don't wait for perfect. Share rough drafts. Show your progress early. Feedback helps, silence doesn't.
+
+
+📚 Learning & Growth
+
+We grow through curiosity, not ego. NORMA funds certifications and gives you time on the clock to prepare. Learn fast, share often, improve continuously.
