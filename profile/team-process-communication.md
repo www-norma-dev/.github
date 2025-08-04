@@ -20,14 +20,14 @@ Developers are responsible for:
 
 - Proposing architecture and preparing any pre-requisites for their work.
 - Testing their implementations and ensuring DevOps compatibility.
-- Documenting the project in the shared project drive (never a personal drive) to ensure team access and avoid redundancy or sync issues.
+- Documenting the project in the shared knowledge management folder (never a personal drive) to ensure team access and avoid redundancy or sync issues.
 - Refactoring code when necessary.
 - Voicing concerns or alternative ideas if they are not convinced by a technical direction or task scope. Thoughtful disagreement is encouraged.
 
 **Process Adherence:**
 
 - Follow ticket order as defined by the Tech Lead. Do not start a ticket without their validation—this prevents duplication and misalignment.
-- Keep Trello up to date to reflect task progress and maintain sprint board accuracy.
+- Keep the ticket management system up to date to reflect task progress and maintain sprint board accuracy.
 - Push your code to a pull request (PR) by the end of each day. Only the developer may merge their PR.
 - Time can be allocated during the week for certification preparation or internal learning—coordinate this with your Tech Lead.
 
@@ -73,12 +73,12 @@ In a remote environment, we lack body language and spontaneous interactions. Cle
 **Video Over Text:**  
 Use video calls to resolve complex issues or strengthen team bonds. Avoid lengthy text threads when a quick call can bring clarity.
 
-**Slack Channels Over Private Discussions:**  
-Use dedicated Slack channels to communicate with the team. This keeps everyone informed and fosters transparency.
+**Team messaging platform channels over private discussions:**  
+Use dedicated team messaging platform channels to communicate with the team. This keeps everyone informed and fosters transparency.
 
 **Availability:**  
-- Notify the team on Slack if you’re unavailable for more than one hour during regular working hours.
-- Use your Slack status to let the team know if you’re available or absent.
+- Notify the team on the team messaging platform if you’re unavailable for more than one hour during regular working hours.
+- Use your status indicator to let the team know if you’re available or absent.
 
 **End-of-Day Check-In:**  
 Be available for a short end-of-day call when possible to align, unblock others, and wrap up open topics.
@@ -111,4 +111,4 @@ Learning is part of our job. At NORMA, we:
 
 ## Annexes
 
-- [GitLab All-Remote Culture Guide](https://handbook.gitlab.com/handbook/company/culture/all-remote/guide/)
+- [All-Remote Culture Guide (Generic Reference)](https://handbook.gitlab.com/handbook/company/culture/all-remote/guide/)
